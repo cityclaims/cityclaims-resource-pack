@@ -3,8 +3,8 @@
 Official resource-pack distribution for the CityClaims Minecraft server.
 
 - Server: `play.cityclaims.pro`
-- Pack: `https://pack.cityclaims.pro/CityClaims-resource-pack-3eee728f82dcb1f13bfff30508c9507093b11fbc.zip`
-- SHA-1: `3eee728f82dcb1f13bfff30508c9507093b11fbc`
+- Pack: `https://pack.cityclaims.pro/CityClaims-resource-pack-ee3e92a76769aabfd8841596d8e509cbd66edfe0.zip`
+- SHA-1: `ee3e92a76769aabfd8841596d8e509cbd66edfe0`
 
 This repository contains client assets only. The CityClaims server plugin,
 configuration and player data are not published here.
